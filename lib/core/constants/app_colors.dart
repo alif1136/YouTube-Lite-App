@@ -20,16 +20,16 @@ class AppColors {
   // Chip
   static const Color chipSelected = Color(0xFFFFFFFF);
   static const Color chipSelectedText = Color(0xFF0F0F0F);
-  static const Color chipUnselected = Color(0xFF272727);
-  static const Color chipUnselectedText = Color(0xFFFFFFFF);
+  static const Color chipUnselected = Color(0xFF2727CC);
+  static const Color chipUnselectedText = Color(0xFFFFFF4D);
 
   // Icon
-  static const Color iconDefault = Color(0xFFFFFFFF);
-  static const Color iconMuted = Color(0xFFAAAAAA);
+  static const Color iconDefault = Color(0xFFFFFFAA);
+  static const Color iconMuted = Color(0xFFAAAAFF);
 
   // Divider
-  static const Color divider = Color(0xFF3D3D3D);
+  static const Color divider = Color(0xFF3D3D9D);
 
   // Overlay
-  static const Color loadingOverlay = Color(0xFF0F0F0F);
+  static const Color loadingOverlay = Color(0xFF0F0FFF);
 }
