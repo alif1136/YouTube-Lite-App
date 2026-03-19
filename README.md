@@ -25,11 +25,7 @@ Designed for speed and low-data usage while keeping the core features of YouTube
 ---
 
 ## Screenshots 📸
-*(Replace these with actual screenshots from your app)*  
-
-![Home Screen](link-to-screenshot1.png)  
-![Search Results](link-to-screenshot2.png)  
-![Video Player](link-to-screenshot3.png)  
+<img width="1536" height="1024" alt="YouTube Lite" src="https://github.com/user-attachments/assets/f6924f5c-c5ee-4dfd-ad07-d4cc2fd955a7" />
 
 ---
 
