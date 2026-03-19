@@ -1,16 +1,39 @@
-# untitled
+# YouTube-Lite-App 📺
 
-A new Flutter project.
+## Description
+YouTube-Lite-App is a lightweight Flutter application that allows users to browse and watch YouTube videos with a minimal interface.  
+Designed for speed and low-data usage while keeping the core features of YouTube.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## Features ✨
+- Search for YouTube videos by keywords  
+- Play videos in-app with a clean video player  
+- Browse trending and recommended videos  
+- Minimal UI for fast performance and low data consumption  
+- Smooth scrolling and responsive design  
+- Optional: Save favorite videos for quick access  
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Tech Stack 🛠
+- **Flutter** – Frontend UI  
+- **Dart** – Programming language  
+- **YouTube Data API** – Fetch video data  
+- **HTTP / REST APIs** – Network requests  
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## Screenshots 📸
+*(Replace these with actual screenshots from your app)*  
+
+![Home Screen](link-to-screenshot1.png)  
+![Search Results](link-to-screenshot2.png)  
+![Video Player](link-to-screenshot3.png)  
+
+---
+
+## How to Run 💻
+1. Clone the repository  
+```bash
+git clone https://github.com/alif1136/YouTube-Lite-App.git
